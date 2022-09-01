@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael Vitório</h1>
-<h3 align="center">Software Engineer Student, passionate for new technologies, getting better and better and better everyday. I learned a lot of things doing some projects, like using Angular, ASP.NET Core, C# and TypeScript to build a CRUD sign website, using Libraries and some new things, working with SQlite in database and Node.js in backend. fetch a API with my pokedex project</h3>
+<h3 align="center">Software Engineer Student, passionate for new technologies, getting better and better everyday. I learned a lot of things doing some projects, like using Angular, ASP.NET Core, C# and TypeScript to build a CRUD sign website, using Libraries and some new things, working with SQlite in database and Node.js in backend. fetch a API with my pokedex project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvjr&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvjr" /> </p>
 
