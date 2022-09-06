@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular and React**
 
-- 💬 Ask me about **Angular, Bootstrap and CSS**
+- 💬 Ask me about **Angular, API and Web Responsivity**
 
 - 📫 How to reach me **contatoraphaelvjr@gmail.com**
 
