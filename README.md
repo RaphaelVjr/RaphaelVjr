@@ -2,7 +2,7 @@
 <h3 align="center">Software engineering student, at the moment I'm focused on my improvement
 knowledge in Angular, in the creation of API's. In the future I intend to specialize in
 Kotlin, for mobile development. I have knowledge about agile methodologies, TDD,
-DDD, BDD and OOP principles and I am open to learning new languages.</h3>
+DDD, BDD and OOP principles and I am open to learning new stacks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvjr&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvjr" /> </p>
 
