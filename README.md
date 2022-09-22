@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raphael Vitório</h1>
-<h3 align="center">Software Engineer Student, passionate for new technologies, getting better and better everyday. I learned a lot of things doing some projects, like using Angular, Entity Framework, ASP.NET Core, C# and TypeScript to build a CRUD sign website, using Libraries and some new things, working with SQlite in database and Node.js in backend. Fetch an API with my Pokedex Project</h3>
+<h3 align="center">Software engineering student, at the moment I'm focused on my improvement
+knowledge in Angular, in the creation of API's. In the future I intend to specialize in
+Kotlin, for mobile development. I have knowledge about agile methodologies, TDD,
+DDD, BDD and OOP principles and I am open to learning new languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvjr&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvjr" /> </p>
 
