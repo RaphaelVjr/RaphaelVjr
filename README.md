@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raphael Vitório</h1>
-<h3 align="center">Software engineering student, at the moment I'm focused on my improvement
-knowledge in Angular, in the creation of API's. In the future I intend to specialize in
-Kotlin, for mobile development. I have knowledge about agile methodologies, TDD,
-DDD, BDD and OOP principles and I am open to learning new stacks.</h3>
+<h3 align="center">I have been working diligently as a Frontend Developer for the past two years, honing my skills and expertise in Angular, Java, and Spring Boot. Throughout my professional journey, I have successfully delivered functionable and scalable web applications while consistently staying abreast of the latest industry trends and best practices. My passion for creating seamless user experiences drives me to continuously explore innovative solutions. With a strong foundation in HTML, CSS, and JavaScript, combined with my proficiency in Angular, Java, and Spring Boot, I am confident in my ability to tackle complex projects and deliver high-quality results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaelvjr&label=Profile%20views&color=0e75b6&style=flat" alt="raphaelvjr" /> </p>
 
