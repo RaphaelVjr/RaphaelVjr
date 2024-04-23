@@ -7,7 +7,7 @@
 <br>
 
 ## > Contato:
-<a href="mailto:DevLuizHBarros@proton.me"><code><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=ProtonMail&logoColor=white"></a></code>
+<a href="mailto:contatoraphaelvjr@gmail.com"><code><img src="https://skillicons.dev/icons?i=gmail"/></a></code>
 
 ## > Linguagens e Ferramentas:
 <p aling='center'>
@@ -35,7 +35,7 @@
 </p>
 <br>
 <p align='center'>
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr0ya7&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelVjr&layout=compact&hide_border=true&theme=radical&langs_count=6&border_radius=8" />
 </p>
 
 ## > Estudando:
